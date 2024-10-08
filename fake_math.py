@@ -6,5 +6,3 @@ def fake_divide(first, second):
         return result
 result1 = fake_divide(69, 3)
 result2 = fake_divide(3, 0)
-print(result1)
-print(result2)
