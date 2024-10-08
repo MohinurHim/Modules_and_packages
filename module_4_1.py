@@ -1,5 +1,5 @@
 # Модули и пакеты. А как делить?
-from fake_math import fake_divide as f_m, result1
+from fake_math import fake_divide as f_m
 from true_math import true_divide as t_m
 
 print(f_m(69,3 ))
